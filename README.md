@@ -32,21 +32,15 @@
 ### 🐍 Python  
 - 🐼 Data manipulation with **pandas**
 - 📊 Data visualization with **seaborn** & **matplotlib**    
----
-
-## 🌟 Projects I’m Working On  
-- **Data Cleaning with Excel & Power Query**: Transforming raw datasets into structured reports  
-- **Interactive Dashboards**: Building dashboards in **Power BI** and **Tableau** to present KPIs  
-- **Python Data Analysis**: Exploring datasets using **Pandas** and visualizing insights with **Seaborn**  
-- **SQL Practice**: Writing queries to extract and analyze information from relational databases  
 
 ---
-
-## 🚀 Goals  
-- Build and share more **data analysis projects** on GitHub  
-- Develop advanced **machine learning skills** with Python  
-- Gain expertise in **cloud data platforms** (e.g., Azure, AWS, Google BigQuery)  
-- Contribute to open-source projects related to **data science and BI**  
+ 
+## 🚀 Career Goals  
+- Contribute as a **Data Analyst** by applying skills in Excel, SQL, Python, Power BI, and Tableau  
+- Build **interactive dashboards and reports** that support data-driven decision-making  
+- Work with **real-world datasets** to uncover insights and solve business problems  
+- Collaborate with teams to turn data into actionable strategies  
+- Continue growing expertise in **data visualization, analytics, and advanced techniques**  
 
 ---
 
