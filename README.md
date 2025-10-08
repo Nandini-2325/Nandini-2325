@@ -1,43 +1,70 @@
-# 👋 Hi, I'm Bhuvana Nandini  
+# 👋 Welcome to My GitHub!
 
-🎓 Currently enrolled in the **Data Skills Bootcamp by Just IT**, building strong foundations in **data analysis, visualization, and reporting**.  
-💡 Passionate about transforming raw data into meaningful insights that drive better decision-making.  
-🌱 Continuously learning and applying data skills through hands-on projects and real-world datasets.  
-
----
-
-## 🔧 Skills & Tools  
-
-### 📊 Data Analysis & Visualization  
-- **Excel**: Data cleaning, data transformation, pivot tables, pivot charts, functions & formulas  
-- **Tableau**: Data visualization, calculated fields, dashboards & storytelling with data  
-- **Power BI**: Power Query, data transformation, interactive reports, DAX expressions  
-
-### 🗄️ Databases  
-- **MySQL**: Writing queries with `SELECT`, `FROM`, `WHERE`, `ORDER BY`, `GROUP BY`, and joins  
-
-### 🐍 Programming  
-- **Python**: Data analysis & visualization using **Pandas**, **Seaborn**, **Matplotlib**  
+Hi there! I'm Bhuvana Nandini, a data enthusiast passionate about transforming raw data into actionable insights.  
+I enjoy exploring the intersection of **data analysis**, **visualization**, and **cloud-based solutions**, using tools that empower smarter decision-making and impactful storytelling through data.
 
 ---
 
-## 🌟 Projects I’m Working On  
-- **Data Cleaning with Excel & Power Query**: Transforming raw datasets into structured reports  
-- **Interactive Dashboards**: Building dashboards in **Power BI** and **Tableau** to present KPIs  
-- **Python Data Analysis**: Exploring datasets using **Pandas** and visualizing insights with **Seaborn**  
-- **SQL Practice**: Writing queries to extract and analyze information from relational databases  
+## 💼 Tools & Technologies
+
+### 🧮 Microsoft Excel  
+Skilled in leveraging Excel for **advanced data analysis**, **interactive dashboards**, and **automation**.  
+Comfortable working with formulas such as `VLOOKUP`, `SUMIFS`, `IF`, `COUNTIFS`, and advanced features like **pivot tables**, **conditional formatting**, and **Power Query** to streamline workflows and extract insights efficiently.
 
 ---
 
-## 🚀 Career Goals  
-- 👩‍💻 Start my career as a **Data Analyst** or **Business Intelligence Analyst**  
-- 📊 Work on real-world datasets to provide actionable insights for businesses  
-- 🤝 Collaborate with teams to design and build **interactive dashboards** and **data reports**  
-- 📈 Apply advanced data visualization techniques to communicate findings effectively  
-- 🌍 Work in industries like **finance, healthcare, or technology** where data plays a key role in decision-making  
-- 📚 Continue upskilling towards **Data Science and Machine Learning** in the future  
+### 📊 Tableau  
+Experienced in building **interactive and visually compelling dashboards** that bring data stories to life.  
+Proficient in using **filters**, **parameters**, and **calculated fields** to uncover trends, highlight key metrics, and make data-driven recommendations.
 
 ---
+
+### 🛢 SQL  
+Proficient in writing **SQL queries** for data extraction, transformation, and analysis.  
+Hands-on experience with:
+- **Joins** and **subqueries***
+- **Data aggregation** and **grouping**
+- Query optimization for performance and clarity  
+
+I enjoy using SQL to turn complex data sets into clear, meaningful insights.
+
+---
+
+### ☁️ Microsoft Azure  
+Basic experience working with **Azure services** such as:
+- **Azure SQL Database**
+- **Azure Storage**
+
+I’m particularly interested in learning how to scale data workflows and analytics in the cloud.
+
+---
+
+### 🐍 Python  
+Beginner to intermediate experience in **Python for data manipulation and automation**.  
+Comfortable using libraries like:
+- `pandas` and `numpy` for data wrangling
+- `matplotlib` and `seaborn` for visualization
+- **Jupyter Notebooks** and **Google Colab** for exploratory data analysis and scripting  
+
+Continuously exploring new Python tools to expand my analytical toolkit.
+
+---
+
+### 📈 Power BI  
+Capable of building sleek, interactive **Power BI dashboards** that turn business data into compelling visuals.  
+Experienced with **DAX measures**, **calculated columns**, and **report-level filters** to deliver insights that drive decision-making.
+
+---
+
+## 🚀 What I’m Working On
+- Enhancing my **Python and SQL** skills for advanced analytics.  
+- Exploring **Azure Data Factory** and **Power BI Service** for cloud-based data solutions.  
+- Creating more **public dashboards and case studies** to share my learning journey.
+
+---
+
+Thanks for visiting my GitHub! 😊
+
 
 ---
 
